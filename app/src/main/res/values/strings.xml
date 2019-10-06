@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAppDB</string>
+    <string name="action_settings">Settings</string>
+</resources>
